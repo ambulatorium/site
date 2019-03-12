@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://reliqui.github.io/site/',
+    'baseUrl' => 'https://reliqui.netlify.com',
     'production' => true,
 
     // DocSearch credentials
