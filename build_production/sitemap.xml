@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
-  <loc>https://reliqui.github.io/docs/algolia-docsearch</loc>
-  <lastmod>2019-03-12T17:01:34+00:00</lastmod>
+  <loc>https://reliqui.github.io/site/docs/algolia-docsearch</loc>
+  <lastmod>2019-03-12T19:17:49+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://reliqui.github.io/docs/custom-404-page</loc>
-  <lastmod>2019-03-12T17:01:34+00:00</lastmod>
+  <loc>https://reliqui.github.io/site/docs/custom-404-page</loc>
+  <lastmod>2019-03-12T19:17:49+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://reliqui.github.io/docs/customizing-your-site</loc>
-  <lastmod>2019-03-12T17:01:34+00:00</lastmod>
+  <loc>https://reliqui.github.io/site/docs/customizing-your-site</loc>
+  <lastmod>2019-03-12T19:17:49+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://reliqui.github.io/docs/getting-started</loc>
-  <lastmod>2019-03-12T17:01:34+00:00</lastmod>
+  <loc>https://reliqui.github.io/site/docs/getting-started</loc>
+  <lastmod>2019-03-12T19:17:49+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://reliqui.github.io/docs/navigation</loc>
-  <lastmod>2019-03-12T17:01:34+00:00</lastmod>
+  <loc>https://reliqui.github.io/site/docs/navigation</loc>
+  <lastmod>2019-03-12T19:17:49+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://reliqui.github.io</loc>
-  <lastmod>2019-03-12T17:01:34+00:00</lastmod>
+  <loc>https://reliqui.github.io/site</loc>
+  <lastmod>2019-03-12T19:17:49+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
 </urlset>
