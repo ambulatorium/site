@@ -7,7 +7,7 @@ Reliqui uses the [Jigsaw](http://jigsaw.tighten.co/) static site generator for i
 1. Go to your Reliqui folder
 
     ```sh
-    cd reliqui.github.io
+    cd reliqui/site
     ```
 
 2. Install JS dependencies
